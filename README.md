@@ -1,7 +1,3 @@
-Here's a comprehensive README file for your text summarizer Chrome extension project:
-
----
-
 # Text Summarizer Chrome Extension
 
 ## Overview

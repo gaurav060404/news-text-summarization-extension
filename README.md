@@ -4,6 +4,8 @@ Here's a comprehensive README file for your text summarizer Chrome extension pro
 
 # Text Summarizer Chrome Extension
 
+<img width="1366" height="768" alt="summarize" src="https://github.com/user-attachments/assets/d18e509f-6d57-40ad-961f-5420231f4894" />
+
 ## Overview
 
 The **Text Summarizer** Chrome extension is designed to summarize text from web pages, particularly news articles. The extension leverages a Flask backend with a text summarization model from the `transformers` library to provide concise summaries of the content.
